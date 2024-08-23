@@ -1,5 +1,6 @@
 
 # Hello, i'm Sébastien
 
-
-![Motivation!](image.jpg "San Juan Mountains")
+<p style="text-align:center">
+    <img src="image.jpg"/>
+</p>
