@@ -1,6 +1,6 @@
 
 # Hello, i'm Sébastien
 
-<p style="text-align:center">
+<p style="display:flex; justify-content:center">
     <img src="image.jpg"/>
 </p>
